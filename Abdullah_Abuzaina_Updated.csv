@@ -1,15 +1,15 @@
-﻿ID,Gender,Age,Site,Times
-1,male,24,None,0
-2,female,26,Facebook,20
-3,male,54,Facebook,2
-4,female,42,Facebook,7
+﻿ID,Gender,Age,Site,Times, Activity
+1,male,24,None,0, None
+2,female,26,Facebook,20, Socializing
+3,male,54,Facebook,2, Socializing 
+4,female,42,Facebook,7, Socializing
 5,male,54,None,
-6,female,21,Facebook,3
-7,female,,None,
-8,male,63,None,0
-9,female,25,None,
-10,female,21,Facebook,14
-11,female,18,Facebook,15
+6,female,21,Facebook,3, Socializing
+7,female,,None, None
+8,male,63,None,0, None
+9,female,25,None, None
+10,female,21,Facebook,14, Socializing
+11,female,18,Facebook,15, Socializing
 12,female,18,MySpace,6
 13,male,19,Other,1
 14,female,,MySpace,200
@@ -18,7 +18,7 @@
 17,male,21,Facebook,10
 18,male,18,None,
 19,female,24,Other,7
-20,female,6,LinkedIn,
+20,female,6,LinkedIn, Job Search
 21,female,26,Facebook,1
 22,male,28,Facebook,7
 23,female,39,Facebook,15
@@ -100,7 +100,7 @@
 99,male,29,None,
 100,male,26,Facebook,1
 101,female,30,Facebook,3
-102,female,33,Twitter,100
+102,female,33,Twitter,100, Connecting to the World
 103,male,46,None,1
 104,male,22,Facebook,2
 105,female,47,None,0
